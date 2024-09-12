@@ -1,0 +1,2 @@
+# TrainoIntroExercise
+uppvärmning
